@@ -1,0 +1,1 @@
+type ISomeImageItem = {id:bool, url:string};
