@@ -19,7 +19,7 @@ export default function Home() {
   ]);
 
 
-  const addNewFox: MouseEventHandler<HTMLButtonElement> = (event) => {
+  const addNewFox: MouseEventHandler<HTMLButtonElement> = () => {
     
     // const target = event.target
 
